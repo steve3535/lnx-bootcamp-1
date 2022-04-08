@@ -7,7 +7,7 @@ DevOps, Cloud, SRE roles are among the most in demand and most paid jobs in Tech
 the skill they all have in common is **Linux**  
 
 My ambition is to help you land one of those jobs in the next 3 - 6 months.  
-I have created this series of bootcamps around Linux and its related technologies to achieve that specific goal. 
+I have created a series of bootcamps around Linux and its related technologies to achieve that specific goal. 
 
 *Are you a traditional sysadmin that feels he is still practicing iron age techniques ?*  
 *Are you a fresher that wants to step quickly into devops ?*  
