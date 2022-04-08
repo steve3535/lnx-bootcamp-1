@@ -23,7 +23,7 @@ Then let's get started !
 1. bye bye HTML, hello Markdown
 2. git and github basics
 3. experiment VScode
-4. HTTP as Transport: CURL it !
+4. HTTP as a Transport: CURL it !
 5. discussion: DEVops or devOPS ?
 6. BYOL: Build Your Own Lab
 
