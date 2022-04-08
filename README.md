@@ -9,7 +9,7 @@ the skill they all have in common is **Linux**
 My goal is to help you land one of these jobs in the next 3 - 6 months.  
 To achieve this goal, I have developped a series of 5 bootcamps around Linux and related technologies. 
 
-*Do you believe Linux is the key to your success and can help you understand design, system, security, network and code concepts ?*
+*Do you believe Linux is the key to your success and can help you understand design, system, security, network and code concepts ?*  
 *Are you a traditional sysadmin who feels you are still using Iron Age techniques ?*  
 *Are you a newbie who wants to get into devops quickly ?*  
 *Do you come from a different discipline and are attracted to the Linux ecosystem ?*  
