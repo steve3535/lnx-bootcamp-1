@@ -35,14 +35,14 @@ Then let's get started !
 5. Storage management
 6. Networking
 
-What you'll be doing:  
+** *What you'll be doing:*  ** 
 * live teaching sessions
 * 100% hands-on labs 
 * scenario-based exercises
 * real-world end of units projects
 
 **Start date: 15/04/2022  
-Duration: 8 weeks
+Duration: 8 weeks  
 6 - 8 hours / week**
 
 
