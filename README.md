@@ -46,7 +46,7 @@ Start date: **15/04/2022**
 Duration: **8 weeks**    
 **6 - 8 hours / week**  
 
-Register: 
+Register: https://forms.gle/ehHgiCZsj7nwzNSx5
 
 
 
