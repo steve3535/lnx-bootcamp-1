@@ -1,13 +1,13 @@
 # lnx-bootcamp-1
 Linux Bootcamp series
 
-## start the journey to take your career to the next level
+## Start the journey to take your career to the next level
 
-DevOps, Cloud, SRE roles are among the most in demand and most paid jobs in Tech.  
+DevOps, Cloud, and SRE roles are some of the most in-demand and highest-paying jobs in Tech.  
 the skill they all have in common is **Linux**  
 
-My ambition is to help you land one of those jobs in the next 3 - 6 months.  
-I have created a series of bootcamps around Linux and its related technologies to achieve that specific goal. 
+My goal is to help you land one of these jobs in the next 3 - 6 months.  
+To achieve this goal, I have developped a series of bootcamps around Linux and related technologies. 
 
 *Are you a traditional sysadmin that feels he is still practicing iron age techniques ?*  
 *Are you a fresher that wants to step quickly into devops ?*  
