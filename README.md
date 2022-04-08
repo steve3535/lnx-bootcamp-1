@@ -35,7 +35,7 @@ Then let's get started !
 5. Storage management
 6. Networking
 
-** *What you'll be doing:*  ** 
+**What you'll be doing:** 
 * live teaching sessions
 * 100% hands-on labs 
 * scenario-based exercises
