@@ -48,7 +48,7 @@ connection to the servers:
    (here, git will complain, follow the instructions on the screen to set a user and an email, you can set it to whatever values)  
 10. ```git status```   
 11. For curious --> Noticed the hash just after the commit message ? check again the .git folder  
-12. ```git log``
+12. ```git log```
 13. From now on, if we modify test.py, git will notice it:  
     change the content by adding another line of code:   
     >name=input('Whats ur name, Sir?)  
