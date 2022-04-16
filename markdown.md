@@ -15,9 +15,15 @@
 7. You can do it vi 😀
 
 ## The creators
-
+**Aaron Swartz**:  
 ![Aaron Swartz](./swartz.jpg)  
+
+Check this on Aaron Swartz: https://twitter.com/KwakouS/status/1481258441918357505?s=20&t=MnBRdYFoHKwAA7jpzJlkNA  
+
+**John Gruber**:  
 ![John Gruber](./jgruber.jpeg)  
+
+
 
 
 
