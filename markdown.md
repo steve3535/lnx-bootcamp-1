@@ -13,6 +13,8 @@
 5. Great for documentation & collaboration  
 6. Less is more  
 7. You can do it vi 😀
+8. You can learn it in 5 minutes
+9. README.md
 
 ## The creators
 **Aaron Swartz**:  
