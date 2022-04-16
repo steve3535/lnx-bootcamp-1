@@ -3,7 +3,8 @@
   [tutorial 1](https://www.markdowntutorial.com/)  
   [tutorial 2](https://commonmark.org/help/tutorial)  
   [cheat sheet](https://www.markdownguide.org/cheat-sheet/)  
-  
+ * [LAB](./lab.md)
+   
 ## Why Markdown ?
 
 1. WYSIWYG right into plain text
