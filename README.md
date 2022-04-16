@@ -21,7 +21,7 @@ Then let's get started !
 ### BOOTCAMP N°1 (WHITE BELT --> YELLOW BELT)
 
 **Part A: the new prereqs**  
-1. bye bye HTML, hello Markdown
+1. bye bye HTML, hello Markdown [start](./markdown/notes.md)
 2. git and github basics
 3. experiment VScode
 4. HTTP as a Transport: CURL it !
