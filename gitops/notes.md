@@ -58,6 +58,35 @@ connection to the servers:
 17. One of the advantages of using an VCS is the ability to revert to a previous version of a file:  
     Lets say our file changes:  
     >print('Hello Pythonists!')
-    and we dont want that change anymore, in fact we want to go back to the first version:  ```git checkout [hash]```
     
+    and we dont want that change anymore, in fact we want to go back to the latest version:  
+    `git diff test.py`   
+    `git checkout .`  
+18. Tags 
+    ```
+    git log --oneline
+    git tag rust_version 987a1d4
+    git log --oneline
+    ```
+    you can remove with `git tag -d ... `
+19. Now suppose we want to work on a feature separately  
+    `git checkout -b dev`   
+    `git branch` 
+    Do quite some changes, add files, etc ...
+20. Dev is done. Question: how do you sync your changes with the main branch ?  
+    Two choices:  
+    * **rebase**
+    * **merge**  
+    ```
+    git checkout master
+    git merge dev
+    ```
+    Or
+    ```
+    git checkout master
+    git rebase dev
+    ```
+    
+     
+       
 
