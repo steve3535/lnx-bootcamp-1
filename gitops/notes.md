@@ -71,7 +71,7 @@ connection to the servers:
     you can remove with `git tag -d ... `
 19. Now suppose we want to work on a feature separately  
     `git checkout -b dev`   
-    `git branch` 
+    `git branch`   
     Do quite some changes, add files, etc ...
 20. Dev is done. Question: how do you sync your changes with the main branch ?  
     Two choices:  
