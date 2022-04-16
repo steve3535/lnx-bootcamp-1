@@ -5,11 +5,11 @@ connection to the servers:
 * for odd numbered student names: **```ssh <username>@94.252.36.233 -p 2201```**  
 * for even numbered student names: **```ssh <username>@94.252.36.233 -p 2202```**  
 
-* [ ] student1
-* [ ] student2
-* [ ] student3
-* [ ] student4
-* [ ] student5
+* [x] student1
+* [x] student2
+* [x] student3
+* [x] student4
+* [x] student5
 * [ ] student6
 * [ ] student7
 
