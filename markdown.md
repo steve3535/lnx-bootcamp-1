@@ -1,1 +1,1 @@
-#WYSIWYG right into the text
+# WYSIWYG right into the text
