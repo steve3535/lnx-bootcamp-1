@@ -16,7 +16,7 @@
 
 ## The creators
 
-![Aaron Swartz](./Aaron Swartz.jpg)  
+![Aaron Swartz](./swartz.jpg)  
 ![John Gruber](./jgruber.jpeg)  
 
 
