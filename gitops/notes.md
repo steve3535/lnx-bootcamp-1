@@ -30,6 +30,14 @@ connection to the servers:
    * within the version, there are data and metadata  
    * the history is not necessary linear  
    
-3. 
+3. Second goal: Collaboration
+4. Third goal: DevOps
+
+### use git locally
+
+1. create a directory *studentx_repo1* in your home folder
+2. inside that directory, run: ```git init```
+3. with *ls -a*, notice a .git subdirectory has been created ; it contains your history  
+4.   
 
 
