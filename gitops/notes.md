@@ -38,6 +38,26 @@ connection to the servers:
 1. create a directory *studentx_repo1* in your home folder
 2. inside that directory, run: ```git init```
 3. with *ls -a*, notice a .git subdirectory has been created ; it contains your history  
-4.   
-
+4. ```touch test.py```
+5. edit test.py with the following simple content:  
+   >print('Hello World!)
+6. ```git status```
+6. ```git add test.py```
+7. ```git status```
+8. ```git commit -m 'init'```  
+   (here, git will complain, follow the instructions on the screen to set a user and an email, you can set it to whatever values)  
+10. ```git status```   
+11. For curious --> Noticed the hash just after the commit message ? check again the .git folder  
+12. ```git log``
+13. From now on, if we modify test.py, git will notice it:  
+    change the content by adding another line of code:   
+    >name=input('Whats ur name, Sir?)  
+14. ```git status``
+15. ```git commit -m 'some more content' -a```
+16. ```git log --oneline``` 
+17. One of the advantages of using an VCS is the ability to revert to a previous version of a file:  
+    Lets say our file changes:  
+    >print('Hello Pythonists!')
+    and we dont want that change anymore, in fact we want to go back to the first version:  ```git checkout [hash]```
+    
 
