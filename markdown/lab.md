@@ -1,3 +1,4 @@
+**Assignement**: create a README file in your repository under your account on Github with the following content:  
 # Project X
 
 ## My learning objectives
