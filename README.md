@@ -22,7 +22,7 @@ Then let's get started !
 
 **Part A: the new prereqs**  
 1. bye bye HTML, hello Markdown [start](./markdown/notes.md)
-2. git and github basics
+2. git and github basics [start](./gitops/notes.md)
 3. experiment VScode
 4. HTTP as a Transport: CURL it !
 5. discussion: DEVops or devOPS ?
