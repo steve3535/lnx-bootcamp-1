@@ -19,8 +19,17 @@ connection to the servers:
 
 ## CRASH COURSE
 
-1. Linus,again !
-   At first, Git was for Linux kernel devs
-2. version = series of changes 
+### Intro
+
+1. Linus,again !  
+   At the beginning, Git was for Linux kernel devs ...  
+   very geek, then ...  
+2. First goal: version control (history tracking)  
+   version = series of changes  
+   * importance of atomicity of the changes  
+   * within the version, there are data and metadata  
+   * the history is not necessary linear  
+   
+3. 
 
 
