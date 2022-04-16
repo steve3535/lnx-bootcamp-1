@@ -16,6 +16,10 @@
 
 ## The creators
 
+![Aaron Swartz](./Aaron Swartz.jpg)  
+![John Gruber](./jgruber.jpg)  
+
+
 
 
   
