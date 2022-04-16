@@ -5,7 +5,7 @@
   [cheat sheet](https://www.markdownguide.org/cheat-sheet/)  
  * [LAB](./lab.md)
    
-## Why Markdown ?
+## Why Markdown, and not HTML ?
 
 1. WYSIWYG right into plain text
 2. natively convertable into HTML
