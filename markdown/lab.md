@@ -39,7 +39,7 @@
    * [ ] Merge & Pull requests 
    * [ ] Gitab pipelines
    
-```echo "Let the party starts !```
+```echo "Let the party starts !```  😆
 
 
 
