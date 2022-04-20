@@ -131,7 +131,48 @@ connection to the servers:
     
     What are your conclusions ?  
     
-22. Manipulate the history      
+22. Manipulate the history   
+
+    You can change the order of your revisions, delete them or even change their contents.  
+    For e.g. to work on the last 4 commits of our master branch:  
+    `git rebase -i HEAD~4`  
+    (Prior to this command, you can set the EDITOR variable: `export EDITOR=vi` - otherwise the default editor is nano -)
+    The previous command opens an editor where subcommands are available to manipulate the selected commits.  
+    
+23. Revert a commit  
+
+    `git log --oneline`
+    `git revert c4cdce1`  
+
+### Collaborate with git  
+
+1. Clone  
+   Recall git is a distributed system.  
+   We can then have multiple copies of the history at multiple locations.  
+   clone is the command to do such a copy.  
+   
+   **clone locally:**  
+   `git clone studentx_repo1 studentx_repo2` 
+   **clone via ssh:**  
+   e.g. from kvm-host-1:  
+   `git clone ssh://studenty@kvm-host-2/home/studenty_repo1/ studenty_repo1`   
+   
+   **!!! ATTENTION**: by default git will pull the current remote branch (the one where the HEAD points)  
+   Though, other branches (if they exist) metadata are also present in the cloned repo: `git branch -a` 
+ 
+2. Remotes  
+   after a clone, "remotes" are automatically set.  
+   They represent the distant repos your local cloned repos refer to.  
+   `git remote -v`  
+   By default, those remotes are called **origin**  
+   e.g. **`git checkout origin/qa`** will checkout the remote branch qa on the distant repo  
+   
+3. Fetch and Pull    
+   Fetch pulls metadata from a distant repo you are connected to.  
+   Pull pulls data from a distant repo you are connected to.  
+   In other words, only pull actually updates the local repo with the contents of the remote repo.  
+   
+> ** EXERCISE ** 
      
        
 
