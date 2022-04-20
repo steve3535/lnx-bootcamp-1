@@ -106,7 +106,31 @@ connection to the servers:
     Now run: **`git log --graph --oneline`** 
     It shows how your two branches are organized.  
     Let's do a **merge**: **`git merge dev`**
-    Run again: `git log --graph --oneline`  
+    Run again: **`git log --graph --oneline`**    
+    
+    Create another bunch of files:  
+    ```
+    git checkout dev
+    touch test.rs
+    git add test.rs
+    git commit -m 'adding rust file'
+    git checkout master
+    touch test.md
+    git add test.md
+    git commit -m 'adding markdown file'
+    git checkout dev
+    touch test.doc
+    git add .
+    git commit -m 'adding doc file'
+    git checkout master
+    ```
+    Now run: **`git log --graph --oneline`** 
+    It shows how your two branches are organized.  
+    Let's do a **rebase**: **`git rebase dev`**
+    Run again: **`git log --graph --oneline`**    
+    
+    What are your conclusions ?  
+    
 22.     
      
        
