@@ -86,7 +86,28 @@ connection to the servers:
     git checkout master
     git rebase dev
     ```
-    
+21. REBASE vs MERGE
+    in your repository, create a bunch of files in dev branch, then in master branch as well:  
+    ```
+    git checkout dev
+    touch test.c
+    git add test.c
+    git commit -m 'adding a c file'
+    git checkout master
+    touch test.yml
+    git add test.yml
+    git commit -m 'adding yaml file'
+    git checkout dev
+    touch test.txt
+    git add .
+    git commit -m 'adding text file'
+    git checkout master
+    ```
+    Now run: `git log --graph --oneline` 
+    It shows how your two branches are organized.  
+    Let's do a **merge**: `git merge dev`  
+    Run again: `git log --graph --oneline`  
+22.     
      
        
 
