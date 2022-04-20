@@ -103,9 +103,9 @@ connection to the servers:
     git commit -m 'adding text file'
     git checkout master
     ```
-    Now run: `git log --graph --oneline` 
+    Now run: **`git log --graph --oneline`** 
     It shows how your two branches are organized.  
-    Let's do a **merge**: `git merge dev`  
+    Let's do a **merge**: **`git merge dev`**
     Run again: `git log --graph --oneline`  
 22.     
      
