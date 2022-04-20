@@ -169,7 +169,10 @@ connection to the servers:
    
 3. Fetch and Pull    
    Fetch pulls metadata from a distant repo you are connected to.  
+   `git fetch` 
+   (this is very useful before a git diff + git pull for e.g.)  
    Pull pulls data from a distant repo you are connected to.  
+   `git pull origin master:master` 
    In other words, only pull actually updates the local repo with the contents of the remote repo.  
    
 > **EXERCISE**   
