@@ -86,7 +86,7 @@ connection to the servers:
     git checkout master
     git rebase dev
     ```
-21. REBASE vs MERGE
+21. REBASE vs MERGE  
     in your repository, create a bunch of files in dev branch, then in master branch as well:  
     ```
     git checkout dev
