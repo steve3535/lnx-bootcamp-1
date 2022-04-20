@@ -172,7 +172,17 @@ connection to the servers:
    Pull pulls data from a distant repo you are connected to.  
    In other words, only pull actually updates the local repo with the contents of the remote repo.  
    
-> ** EXERCISE ** 
+> **EXERCISE** 
+> You are studentx on kvm-host-1. There is a studentx_bis on kvm-host-2.  
+> You are studenty on kvm-host-2. There is a studenty_bis on kvm-host-1.  
+> studentx|y_bis has a repo called *countries*.  
+> Your task is to clone the dev branch of the *countries* repo into a local repository called *pays* and ensure you got all the contents are pulled.  
+> You can explore the contents of your respective studentx|y_bis to compare and see if your clone operation is successful.  
+> If that's the case, you should normally have 5 countries files: togo, ghana, kenya, luxembourg and benin.  
+> However, there is still a missing file with the name *studentx|y*  
+> Why is it not present in the clone repo ? Fix the issue so that the file appears in your local repo pays.  
+
+
      
        
 
