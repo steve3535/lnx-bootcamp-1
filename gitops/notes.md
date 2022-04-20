@@ -52,7 +52,7 @@ connection to the servers:
 13. From now on, if we modify test.py, git will notice it:  
     change the content by adding another line of code:   
     >name=input('Whats ur name, Sir?)  
-14. ```git status``
+14. `git status`
 15. ```git commit -m 'some more content' -a```
 16. ```git log --oneline``` 
 17. One of the advantages of using an VCS is the ability to revert to a previous version of a file:  
