@@ -172,11 +172,11 @@ connection to the servers:
    Pull pulls data from a distant repo you are connected to.  
    In other words, only pull actually updates the local repo with the contents of the remote repo.  
    
-> **EXERCISE** 
+> **EXERCISE**   
 > You are studentx on kvm-host-1. There is a studentx_bis (password = studentx_bis) on kvm-host-2.    
 > Or You are studenty on kvm-host-2. Then there is also a studenty_bis (password = studenty_bis) on kvm-host-1.  
 > student\*\_bis has a repo called countries in his home directory.  
-> *Your task is to clone the dev branch of the countries repo into a local repository called pays and ensure all contents are present locally.  
+> * Your task is to clone the dev branch of the countries repo into a local repository called pays and ensure all contents are present locally.  
 > *You can log as student*_bis and explore the contents of the countries repo to compare and see if your previous clone operation was successful.  
 > *If that's the case, you should normally have 5 countries files: togo, ghana, kenya, luxembourg and benin.  
 > *However, there is still a missing file: the one for cameroon  
