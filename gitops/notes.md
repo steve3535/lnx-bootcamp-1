@@ -10,8 +10,11 @@ connection to the servers:
 * [x] student3
 * [x] student4
 * [x] student5
-* [ ] student6
-* [ ] student7
+* [x] student6
+* [x] student7
+* [x] student8
+* [x] student9
+* [ ] student10
 
 ## curated list of resources
 * [Git immersion](https://gitimmersion.com/)
