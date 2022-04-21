@@ -174,9 +174,13 @@ connection to the servers:
    Fetch pulls metadata from a distant repo you are connected to.  
    `git fetch` 
    (this is very useful before a git diff + git pull for e.g.)  
+   
    Pull pulls data from a distant repo you are connected to.  
-   `git pull origin master:master` 
+   `git pull` or `git pull origin master:master` (pull the content of the master branch of the remote origin into the local master branch)   
    In other words, only pull actually updates the local repo with the contents of the remote repo.  
+   
+   The underlying operation of pull is a merge. And by default, it will integrate the whole remote branch and will create a merge revision.  
+   To avoid the above, specify the rebase option: `git pull --rebase` 
    
 > **EXERCISE**   
 > You are studentx on kvm-host-1. There is a studentx_bis (password = studentx_bis) on kvm-host-2.    
