@@ -178,9 +178,10 @@ connection to the servers:
    Pull pulls data from a distant repo you are connected to.  
    `git pull` or `git pull origin master:master` (pull the content of the master branch of the remote origin into the local master branch)   
    In other words, only pull actually updates the local repo with the contents of the remote repo.  
-   
+   **Remark:**  
    The underlying operation of pull is a merge. And by default, it will integrate the whole remote branch and will create a merge revision.  
    To avoid the above, specify the rebase option: `git pull --rebase` 
+   This remark is relevant when you have changes both in the local and remote repos.  
    
 > **EXERCISE**   
 > You are studentx on kvm-host-1. There is a studentx_bis (password = studentx_bis) on kvm-host-2.    
@@ -193,6 +194,12 @@ connection to the servers:
 > * Why is it not present in the clone repo ? Fix the issue so that the file appears in your local repo *pays*.    
 
 
-     
+4. Push  
+   Push is the opposite of Pull and serves for exporting the changes made locally.  
+   You can use the full URL or UNC of the remote repo/branch you are pushing to, or simply use the name of the remote (usually origin)  
+   **It is always recommended to do a pull before a push** (to rapatriate remote changes before pushing your own)  
+   `git push` or `git push origin local_branch:remote_branch`   
+
+5.      
        
 
