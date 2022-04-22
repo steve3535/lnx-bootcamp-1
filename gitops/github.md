@@ -64,7 +64,10 @@ Once you are done, you can ask for the integration of your modifications in the 
 
 ![fork](./fork.png)  
 
-> Exercise: create fork nodejs/node official repository and then clone it locally.  
+> Exercise: There is a project that fully documents all algorithms used in Rust language.  
+> the project name is  **TheAlgorithms/Rust**   
+> Create a fork of TheAlgorithms/Rust official repository and then clone it locally.  
+> Have a look at the history (graph it !)  
 
 
 
