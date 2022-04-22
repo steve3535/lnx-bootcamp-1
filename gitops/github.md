@@ -67,9 +67,17 @@ Once you are done, you can ask for the integration of your modifications in the 
 > Exercise: There is a project that fully documents all algorithms used in Rust language.  
 > the project name is  **TheAlgorithms/Rust**   
 > Create a fork of TheAlgorithms/Rust official repository and then clone it locally.  
-> Have a look at the history (graph it !)  
+> Have a look at the history (graph it !)      
+
 
 ## Pull Requests  
+
+PR are changes you wanna integrate into the upstream.  
+All that is required is to publish inside your own fork.  
+Git will generate a link that details the PR.  
+**Remark:** you should push your newly changes to a newly branch:    
+`git push origin master:new_proposal`    
+
 
 
 
