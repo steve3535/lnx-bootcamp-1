@@ -53,6 +53,16 @@ The same revision or version history paradigm we learned in the previous chapter
    
  3. Run the clone command once again: this time, it should work seamlessly.    
 
- 
+## Fork  
+
+You can copy a project easily by forking it.  
+When you fork a project, you get a cloned version of that project that is hosted on the same platform (here GitHUb)  
+From the git remotes concept, your **origin** is then the fork and the original project becomes the **upstream**.  
+
+The best practice is then to clone the fork in order to work on the project locally, and push your modifications back to the fork hosted on Github.  
+Once you are done and you can ask for the integration of your modifications in the upstream by making a **Pull Request**.  
+
+
+
 
 
