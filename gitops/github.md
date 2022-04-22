@@ -33,13 +33,26 @@ The same revision or version history paradigm we learned in the previous chapter
 
 1. Generate a SSH keypair that will be used for github authentication (**you can use any existing public key on your machine if you will**)  
    * `ssh-keygen -f ./my_github_keys`   
-   * copy the public key (the one with .pub extension) in your clipboard  
-3. Set the SSH public key on your account on GitHUb  
+   * copy the public key (the one with .pub extension) in your clipboard    
+   
+2. Set the SSH public key on your account on GitHUb    
+
    * Go to your profile and chose settings:    
-   ![Go to your account settings](./settings.png)
+   
+   ![Go to your account settings](./settings.png)    
+   
    * Locate SSH and GPG keys submenu:    
+   
    ![Go to your account settings](./profile.png)    
+   
    * Click on SSH keys:  
-   ![Go to your account settings]    
+   ![Go to your account settings](./sshkeys.png)    
+   
+   * Paste your public key in there:  
+   ![Go to your account settings](./addsshkey.png)     
+   
+ 3. Run the clone command once again: this time, it should work seamlessly.    
+
+ 
 
 
