@@ -49,7 +49,7 @@ The same revision or version history paradigm we learned in the previous chapter
    ![Add new ssh key](./sshkeys.png)    
    
    * Paste your public key in there:  
-   ![set the public key](./addsshkey.png)     
+   ![set the public key](./addnewsshkey.png)     
    
  3. Run the clone command once again: this time, it should work seamlessly.    
 
