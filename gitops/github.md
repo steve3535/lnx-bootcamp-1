@@ -7,3 +7,5 @@ The same revision or version history paradigm we learned in the previous chapter
 
 ## Create a new project  
 
+![create a new project](./create.png)
+
