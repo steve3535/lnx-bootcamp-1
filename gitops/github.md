@@ -69,6 +69,8 @@ Once you are done, you can ask for the integration of your modifications in the 
 > Create a fork of TheAlgorithms/Rust official repository and then clone it locally.  
 > Have a look at the history (graph it !)  
 
+## Pull Requests  
+
 
 
 
