@@ -1,19 +1,10 @@
 # lnx-bootcamp-1
 Linux Bootcamp series
 
-## Start the journey to take your career to the next level
-
-DevOps, Cloud, and SRE roles are some of the most in-demand and highest-paying jobs in Tech.  
-the skill they all have in common is **Linux**  
-
-My goal is to help you land one of these jobs in the next 3 - 6 months.  
-To achieve this goal, I have developped a series of 5 bootcamps around Linux and related technologies. 
 
 *Do you believe Linux is the key to your success and can help you understand design, system, security, network and code concepts ?*  
 *Are you a traditional sysadmin who feels you are still using Iron Age techniques ?*  
-*Are you a newbie who wants to get into devops quickly ?*  
 *Do you come from a different discipline and are attracted to the Linux ecosystem ?*  
-*Do you have the ambition to earn a chance at a ###.### salary ?*  
 *Or do you have an SRE mentality by nature that makes you want to find out what's under the hood ?*  
 
 Then let's get started !
