@@ -198,8 +198,10 @@ connection to the servers:
    Push is the opposite of Pull and serves for exporting the changes made locally.  
    You can use the full URL or UNC of the remote repo/branch you are pushing to, or simply use the name of the remote (usually origin)  
    **It is always recommended to do a pull before a push** (to rapatriate remote changes before pushing your own)  
-   `git push` or `git push origin local_branch:remote_branch`   
+   `git push` or `git push origin local_branch:remote_branch`  
+   PS: pushing to a non-bare repositiory is not allowed (for write concurrency issues reasons)  
+       However you can overwrite this rule by setting on the remote: **`git config receive.denyCurrentBranch=updateInstead`**  
 
-5.      
+[next chapter: GitHub and GitLab](./github.md)
        
 
