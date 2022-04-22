@@ -15,9 +15,16 @@ The same revision or version history paradigm we learned in the previous chapter
 
 ## Clone the repo via ssh
 
-![clone with ssh](./sshclone.png)
+![clone with ssh](./sshclone.png)  
+
+`git clone git@github.com:steve3535/mynewproject.git projects/mynewproject`  
 
 ## Clone the repo via https (less performant)  
 
-![clone with https](./httpsclone.png)  
+![clone with https](./httpsclone.png)    
+
+`git clone https://github.com/steve3535/mynewproject.git projects/mynewproject`    
+
+
+
 
