@@ -60,7 +60,11 @@ When you fork a project, you get a cloned version of that project that is hosted
 From the git remotes concept, your **origin** is then the fork and the original project becomes the **upstream**.  
 
 The best practice is then to clone the fork in order to work on the project locally, and push your modifications back to the fork hosted on Github.  
-Once you are done and you can ask for the integration of your modifications in the upstream by making a **Pull Request**.  
+Once you are done, you can ask for the integration of your modifications in the upstream by making a **Pull Request**.    
+
+![fork](./fork.png)  
+
+> Exercise: create fork nodejs/node official repository and then clone it locally.  
 
 
 
