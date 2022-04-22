@@ -35,6 +35,11 @@ The same revision or version history paradigm we learned in the previous chapter
    * `ssh-keygen -f ./my_github_keys`   
    * copy the public key (the one with .pub extension) in your clipboard  
 3. Set the SSH public key on your account on GitHUb  
-   ![Go to your account settings]
+   * Go to your profile and chose settings:    
+   ![Go to your account settings](./settings.png)
+   * Locate SSH and GPG keys submenu:    
+   ![Go to your account settings](./profile.png)    
+   * Click on SSH keys:  
+   ![Go to your account settings]    
 
 
