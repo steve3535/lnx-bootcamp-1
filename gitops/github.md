@@ -43,13 +43,13 @@ The same revision or version history paradigm we learned in the previous chapter
    
    * Locate SSH and GPG keys submenu:    
    
-   ![Go to your account settings](./profile.png)    
+   ![SSH and GPG keys](./profile.png)    
    
    * Click on SSH keys:  
-   ![Go to your account settings](./sshkeys.png)    
+   ![Add new ssh key](./sshkeys.png)    
    
    * Paste your public key in there:  
-   ![Go to your account settings](./addsshkey.png)     
+   ![set the public key](./addsshkey.png)     
    
  3. Run the clone command once again: this time, it should work seamlessly.    
 
