@@ -2,8 +2,8 @@
 
 ## env setup
 connection to the servers:  
-* for odd numbered student names: **```ssh <username>@94.252.36.233 -p 2201```**  
-* for even numbered student names: **```ssh <username>@94.252.36.233 -p 2202```**  
+* for odd numbered student names: **```ssh <username>@94.252.43.217 -p 2201```**  
+* for even numbered student names: **```ssh <username>@94.252.43.217 -p 2202```**  
 
 * [x] student1
 * [x] student2
